@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Assistant",
+  "description": "A powerful multi-turn chat interface powered by Google Gemini AI.",
+  "requestFramePermissions": []
+}
